@@ -1,6 +1,6 @@
 {
   "name": "seaport223-tea",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "private": false,
   "description": "JavaScript client for Sigstore",
   "scripts": {
@@ -30,7 +30,8 @@
     "prettier": "^3.2.5",
     "shx": "^0.3.3",
     "typescript": "^5.3.3",
-    "happy-ta":"^3.0.0"
+    "happy-ta":"^3.0.0",
+    "forjs7": "^1.0.0"
   },
   "workspaces": [
     "./packages/*"
