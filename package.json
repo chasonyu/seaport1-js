@@ -1,6 +1,6 @@
 {
-  "name": "sigstore-monorepo",
-  "version": "0.0.0",
+  "name": "seaport223-tea",
+  "version": "2.0.0",
   "private": true,
   "description": "JavaScript client for Sigstore",
   "scripts": {
@@ -36,5 +36,9 @@
   ],
   "engines": {
     "node": "^16.14.0 || >=18.0.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/chasonyu/seaport1-js.git"
   }
 }
